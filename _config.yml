@@ -97,7 +97,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : ""
   location         : "Manchester, United Kingdom & Yongin, South Korea"
-  email            : "seongin.na03@gmail.com
+  email            : "seongin.na03@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
