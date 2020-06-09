@@ -1,3 +1,8 @@
+---
+title: "What is Library (c++)?"
+date: 2020-06-10 00:23:28 -0400
+categories: c++ cmake make
+---
 Hi everyone! (who is possibly struggling with computer science things like me)
 
 Today I will explain the concept of libraries (static, dynamic) in c++. 
